@@ -1,0 +1,13 @@
+{
+  "name": "alura-poo-javascript",
+  "version": "1.0.0",
+  "description": "Repositorio utilizado na aula de programação orientada a objetos",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
